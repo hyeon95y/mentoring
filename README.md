@@ -8,4 +8,4 @@
     - [실무과제](https://github.com/hyeon95y/ssc_mentoring_2024_01)
 - 고려대 SSC 2023년 여름방학 실무과제형 취업스터디 13기
     - [내용설명](https://www.koreapas.com/bbs/view.php?back=1&id=jobs&no=453846&moved=1)
-    - 실무과제
+    - [실무과제](https://github.com/hyeon95y/ssc_mentoring_2024_07/tree/main)
